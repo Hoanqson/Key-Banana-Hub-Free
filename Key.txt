@@ -1,1 +1,5 @@
-Key Hôm Nay:Free
+Key Hôm Nay:ngn
+
+Script:loadstring(game:HttpGet('https://raw.githubusercontent.com/hoanqson2107/BananaCat_Free/refs/heads/main/Source.lua'))()
+
+Android id:4a01271a27f9f0db
